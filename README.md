@@ -9,7 +9,9 @@ This is an EDA project on a dataset that contains various cars from different ca
 The dataset contains technical specifications of automobiles, insurance attributes, purchase prices, and many more variables.
 
 ## Requirements
-numpy
-pandas
-seaborn
-matplotlib
+```bash
+pip install numpy
+pip install pandas
+pip install seaborn
+pip install matplotlib
+```
