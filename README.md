@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of an Automobile Dataset
 
-[Wondering why there are so many hatchbacks?](https://github.com/fortune-ncube/automobile_eda/blob/main/EDA%20Pictures/Price_Body%20Style.png)
+[Wondering why there are so many hatchbacks on roads?](https://github.com/fortune-ncube/automobile_eda/blob/main/EDA%20Pictures/Price_Body%20Style.png)
 
 ![Wondering why there are so many hatchbacks?](https://github.com/fortune-ncube/automobile_eda/blob/main/EDA%20Pictures/Price_Body%20Style.png)
 
