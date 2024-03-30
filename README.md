@@ -6,7 +6,7 @@
 
 ## Introduction
 This is an EDA project on a dataset that contains various cars from different car makers. 
-The dataset contains technical specifications of automobiles, insurance attributes, purchase prices, and many more variables.
+The dataset contains technical specifications of automobiles, insurance attributes, purchase prices, and many more variables. The dataset was compiled from data of 1985.
 
 ## Requirements
 ```bash
@@ -24,4 +24,4 @@ pip install matplotlib
 
 ## Output
 
-The notebook should generate visualisations that can be used for presentations by decision-makers. The last output is a bar chart race of top most highly paid athletes over 30 years.
+The notebook will generate compelling visualisations for decision-makers in various industries.
