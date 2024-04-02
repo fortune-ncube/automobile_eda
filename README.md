@@ -46,7 +46,12 @@ To reproduce the analysis or explore the code, follow these steps:
 2. Navigate to the `notebooks/` directory.
 3. Open the  **automobile_eda.ipynb** Jupyter Notebooks using Jupyter Notebook or JupyterLab.
 4. Execute the code cells to run the analysis and visualize the results.
-   
+
+   OR
+1. Download the files to a folder in your computer
+2. Install the requirements
+3. Run the jupyter notebook
+
 ## Output
 
 The notebook will generate compelling visualisations for decision-makers in various industries.
