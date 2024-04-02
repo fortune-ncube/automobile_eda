@@ -69,5 +69,5 @@ The EDA on the Automobile dataset provides valuable insights into the characteri
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/fortune-ncube/automobile_eda/blob/main/LICENSE).
 
