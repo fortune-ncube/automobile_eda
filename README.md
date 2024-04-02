@@ -41,7 +41,7 @@ To reproduce the analysis or explore the code, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-```git clone <https://github.com/fortune-ncube/automobile_eda/edit/main/README.md>```
+```git clone <https://github.com/fortune-ncube/automobile_eda>```
 
 2. Navigate to the `notebooks/` directory.
 3. Open the  **automobile_eda.ipynb** Jupyter Notebooks using Jupyter Notebook or JupyterLab.
